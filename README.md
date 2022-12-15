@@ -1,3 +1,3 @@
-#Atividade DH-News
+# Atividade DH-News
 
-##Objetivo: Fazer uma página utilizando HTML, sem estilizar a página com CSS.
+## Objetivo: Fazer uma página utilizando HTML, sem estilizar a página com CSS.
